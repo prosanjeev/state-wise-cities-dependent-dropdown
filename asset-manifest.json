@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/state-wise-cities-dependent-dropdown/static/css/main.dc4d6ff2.css",
+    "main.js": "/state-wise-cities-dependent-dropdown/static/js/main.a74869eb.js",
+    "index.html": "/state-wise-cities-dependent-dropdown/index.html",
+    "main.dc4d6ff2.css.map": "/state-wise-cities-dependent-dropdown/static/css/main.dc4d6ff2.css.map",
+    "main.a74869eb.js.map": "/state-wise-cities-dependent-dropdown/static/js/main.a74869eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.a74869eb.js"
+  ]
+}
